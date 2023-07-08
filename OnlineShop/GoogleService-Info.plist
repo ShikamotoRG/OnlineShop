@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>743073117430-fas76649vtdl91r645ohi88q2ul1dpjk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.743073117430-fas76649vtdl91r645ohi88q2ul1dpjk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAwcS_RVumzjPz-HX0fp6bTZX_2NUM3Gi0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>743073117430</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ru.domen.OnlineShop</string>
+	<key>PROJECT_ID</key>
+	<string>dress-online-shop</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dress-online-shop.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:743073117430:ios:deec7287aa4e6579caa8d7</string>
+</dict>
+</plist>
